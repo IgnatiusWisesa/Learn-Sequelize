@@ -1,0 +1,6 @@
+I use MySQL as database
+
+use these queries to make the database:
+
+DROP DATABASE IF EXISTS best_todo_ever;
+CREATE DATABASE best_todo_ever;
